@@ -1,8 +1,8 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 My name is Elena and I decide become programmer. 
 I'm interested in almost everything, but when I'm in the mood.
-<!-- TO DO: add more details about me later 
+TO DO: add more details about me later 
     Use this -> https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github
 -->
 
